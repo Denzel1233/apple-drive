@@ -1,0 +1,7 @@
+.navBar{background-color:black;height:50px;justify:flex;justify-content:space-around;align-items:center}
+.navBar a{color:gray;text-decoration:none;}
+.banner{background-image:url("banner.jpg");height:100px;background-size:cover;background-position:center;}
+.banner img{height:300px;width:100%;}
+.plug{display:flex;}
+.plug div{width:25%;height:250px;justify-content:space-between;}
+.plug div img{width:50%;height:50%; object-fit:cover;}
